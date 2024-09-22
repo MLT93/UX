@@ -40,7 +40,7 @@ The course blends theoretical lectures, case studies, and practical projects, al
 
 ## Duration
 
-The course spans XX weeks, with weekly sessions of XX hours.
+The course spans 2 months.
 
 ## Enrollment
 
